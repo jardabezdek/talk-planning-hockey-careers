@@ -10,3 +10,4 @@ Code and docs for the following talk: "Planning Hockey Careers With Python"
 
 - Conferences and meetups:
   - [PyData Eindhoven 2025 (Eindhoven, Netherlands)](https://pydata.org/eindhoven2025/)
+    - [Talk Recording](https://www.youtube.com/watch?v=y-JogdNgosE)
